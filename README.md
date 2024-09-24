@@ -69,7 +69,7 @@ Kaggle에서 제공하는 아마존 파인 푸드 리뷰 데이터셋을 처리�
 
 ## 참고
 
-- Google Translate API의 사용 제한이 있음
+- Google Translate API의 사용 제한이 있음.
 - Elasticsearch 서버가 실행 중이어야 함.
 - `config.py` 파일에는 민감한 정보가 포함될 수 있으므로 반드시 `.gitignore`에 추가하여 버전 관리에서 제외.
 
